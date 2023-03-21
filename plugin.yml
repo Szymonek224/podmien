@@ -1,0 +1,7 @@
+main: me.Szymonek223.podmien.Main
+version: 1.0
+autor: Szymonek223
+name: podmien
+
+commands:
+  podmien:
